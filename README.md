@@ -1,10 +1,8 @@
-# MiniProjectWith.Net
+## MiniProjectWith.Net
 Here's our logo (hover to see the title text):
 
-Inline-style: 
-![alt text](https://github.com/dumrussiri/MiniProjectWith.Net/blob/main/Screenshot%20(5).png?raw=true "Logo Title Text 1")
+#หน้าแจ้งเตือน Login
+![alt text](https://github.com/dumrussiri/MiniProjectWith.Net/blob/main/Screenshot%20(5).png?raw=true "login")
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+#หน้า login
+![รูป 2] (https://github.com/dumrussiri/MiniProjectWith.Net/blob/main/Screenshot%20(6).png?raw=true "login" )
