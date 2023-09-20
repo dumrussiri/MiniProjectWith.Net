@@ -1,0 +1,22 @@
+﻿.button {
+    display: block;
+    background-color:royalblue;
+    margin-top: 1vh;
+    padding: .5em;
+    border-radius: 5px;
+    width: 5em;
+    box-shadow: 0 2px;
+    margin:auto;
+}
+
+    .button:active {
+        box-shadow: 0 2px;
+        transition: ease-in-out;
+        transform: translateY(.5em);
+    }
+
+.imge {
+    width: 25%;
+    padding: 20px;
+    margin: 30px;
+}

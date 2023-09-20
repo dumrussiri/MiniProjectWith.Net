@@ -1,0 +1,21 @@
+﻿html, body {
+    background-color: rgb(192,192,192)
+}
+
+
+.mainn{
+    max-width:700px;
+    margin:auto;
+}
+
+.boxx{
+    
+    background-color:white;
+    padding:20px;
+    margin:30px;
+}
+
+.image{
+    width: 100%;
+    
+}

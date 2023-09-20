@@ -1,0 +1,235 @@
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.staticwebassets.runtime.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.exe
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.deps.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.runtimeconfig.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.pdb
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfo.cs
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\bundle\TaoLoid.styles.css
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\projectbundle\TaoLoid.bundle.scp.css
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CopyComplete
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\refint\TaoLoid.dll
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.pdb
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.genruntimeconfig.cache
+C:\Users\User\Desktop\TaoLoid\TaoLoid\obj\Debug\net6.0\ref\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.staticwebassets.runtime.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.exe
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.deps.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.runtimeconfig.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.pdb
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.AssemblyReference.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfoInputs.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfo.cs
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CoreCompileInputs.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cs
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\bundle\TaoLoid.styles.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\projectbundle\TaoLoid.bundle.scp.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CopyComplete
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\refint\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.pdb
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.genruntimeconfig.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\ref\TaoLoid.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.staticwebassets.runtime.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.exe
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.deps.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.runtimeconfig.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.pdb
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.AssemblyReference.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfoInputs.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfo.cs
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CoreCompileInputs.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cs
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\bundle\TaoLoid.styles.css
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\projectbundle\TaoLoid.bundle.scp.css
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CopyComplete
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\refint\TaoLoid.dll
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.pdb
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.genruntimeconfig.cache
+C:\Users\Chayapol  Tanapuech\Downloads\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\ref\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\appsettings.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.staticwebassets.runtime.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.exe
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.deps.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.runtimeconfig.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\TaoLoid.pdb
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.AssemblyReference.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfoInputs.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfo.cs
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CoreCompileInputs.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cs
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\bundle\TaoLoid.styles.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\scopedcss\projectbundle\TaoLoid.bundle.scp.css
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CopyComplete
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\refint\TaoLoid.dll
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.pdb
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\TaoLoid.genruntimeconfig.cache
+C:\Users\gameh\OneDrive\เดสก์ท็อป\C#\TaoLoid\TaoLoid\TaoLoid\TaoLoid\obj\Debug\net6.0\ref\TaoLoid.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\appsettings.Development.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\appsettings.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.staticwebassets.runtime.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.exe
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.deps.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.runtimeconfig.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\TaoLoid.pdb
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\Google.Protobuf.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\MySql.Data.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\ZstdNet.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.AssemblyReference.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.GeneratedMSBuildEditorConfig.editorconfig
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfoInputs.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.AssemblyInfo.cs
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CoreCompileInputs.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.MvcApplicationPartsAssemblyInfo.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.RazorAssemblyInfo.cs
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets\msbuild.TaoLoid.Microsoft.AspNetCore.StaticWebAssets.props
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets\msbuild.build.TaoLoid.props
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TaoLoid.props
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TaoLoid.props
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets.pack.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets.build.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\staticwebassets.development.json
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\scopedcss\bundle\TaoLoid.styles.css
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\scopedcss\projectbundle\TaoLoid.bundle.scp.css
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.csproj.CopyComplete
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\refint\TaoLoid.dll
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.pdb
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\TaoLoid.genruntimeconfig.cache
+D:\project TaoLoid เสร็จแล้ว\project TaoLoid เสร็จแล้ว\TaoLoid\obj\Debug\net6.0\ref\TaoLoid.dll

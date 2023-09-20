@@ -1,0 +1,36 @@
+﻿@page
+@model TaoLoid.Pages.actionloginModel
+@using MySql.Data.MySqlClient;
+@using System.Data;
+@using Newtonsoft.Json;
+@{
+}
+
+@{
+    Layout = null;
+    //Request.Query : รับinput จาก Client แบบ GET
+    var action = Request.Form["action"];
+    var result = "";
+    if (action == "login")
+    {
+
+        var username = Request.Form["uname"];
+        var password = Request.Form["psw"];
+
+        //แก้การตรวจสอบ if เป็นการ select จากฐานข้อมูล
+        if (username == "abc" && password == "123")
+        {
+            result = "Login success";
+            HttpContext.Session.SetString("username", username);
+            HttpContext.Session.SetString("displayname", "TanjiroIsTheBest");
+        }
+        else
+        {
+            result = "Login Failed";
+        }
+
+
+    }
+
+}
+@Html.Raw(result)

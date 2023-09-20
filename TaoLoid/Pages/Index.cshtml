@@ -1,0 +1,24 @@
+﻿@page
+@model IndexModel
+@{
+if (HttpContext.Session.GetString("username") == null)
+	{
+<script>alert("กรุณา login ก่อนเข้ามาที่หน้านี้นะจ๊ะ");</script>
+<script>window.location.replace("./Login");</script>
+return;
+	}
+
+}
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <br/>
+    <br />
+    
+    <img class="imge" src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/314867024_3528485597437928_3973846838755430244_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeFsuHuFCpawyX8_-aoW_NbifQQQkJf_Icl9BBCQl_8hyeXm-qSr0ok2QDEzoI_6H1Jnwey7YQdKDDNd8ZQM35a9&_nc_ohc=rbTlxLH1XZgAX-P3BST&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfCxcunX3Wyen42V12YMacSdWNR8lUsT07YUnoGe5ANejA&oe=650F50B3" width="400px" />
+    <h1 class="display-4">𓂀𝕎𝔼𝕃ℂ𝕆𝕄𝔼𓂀</h1>
+    <h3 class="display-4">𓂀𝕋𝕒𝕠𝕃𝕠𝕚𝕕𓂀</h3>
+</div>

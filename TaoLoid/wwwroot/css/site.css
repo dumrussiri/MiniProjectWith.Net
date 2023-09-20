@@ -1,0 +1,55 @@
+html {
+    font-size: 14px;
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap" rel="stylesheet">
+}
+
+
+html, body {
+    margin-bottom: 60px;
+    font-family: 'Zen Antique', serif;
+    background-color: rgb(192,192,192)
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+header {
+     
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    background-color: #333;
+}
+
+.navbar a{
+    float: left;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+    .navbar a:hover {
+        background-color: rgb(185, 178, 178);
+        color: black;
+    }
+
+.navbar a.active {
+    background-color: white;
+    color: rgb(255, 255, 255);
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+

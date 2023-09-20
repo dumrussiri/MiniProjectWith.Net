@@ -1,0 +1,140 @@
+﻿@page
+@model TaoLoid.Pages.actionsModel
+@using MySql.Data.MySqlClient;
+@using System.Data;
+@using Newtonsoft.Json;
+@{
+}
+@{
+    Layout = null;
+    var action = Request.Query["action"];
+    var result = "ajax error";
+
+
+    MySqlConnection conn;
+    string server = "localhost";    
+    string database = "taoloid";
+    string uid = "root";
+    string password = "12345678";
+    string connectionString = "SERVER=" + server + ";" + "DATABASE=" +
+    database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";SSL Mode=None;";
+    conn = new MySqlConnection(connectionString);
+    try
+    {
+        conn.Open();
+    }
+    catch (Exception ex)
+    {
+        @Html.Raw("มีปัญหาการเชื่อมต่อฐานข้อมูล")
+        return;
+    }
+
+    if (action == "insert")
+    {
+        var product_id = Request.Query["product_id"];
+        var product_name = Request.Query["product_name"];
+        var price = Request.Query["price"];
+        var product_type = Request.Query["product_type"];
+
+
+        string sqlCmd = "INSERT INTO Taoloid VALUES(@p1, @p2, @p3, @p4)";
+        MySqlCommand cmd = new MySqlCommand(sqlCmd, conn);
+        cmd.Parameters.AddWithValue("@p1", product_id);
+        cmd.Parameters.AddWithValue("@p2", product_name);
+        cmd.Parameters.AddWithValue("@p3", price);
+        cmd.Parameters.AddWithValue("@p4", product_type);
+
+
+        cmd.ExecuteNonQuery();
+
+        result = "ajax insert success" + " "
+               + product_id + " "
+               + product_name + " "
+               + price + " "
+               + product_type + " ";
+
+    }
+    else if (action == "update")
+    {
+        var product_id = Request.Query["product_id"];
+        var product_name = Request.Query["product_name"];
+        var price = Request.Query["price"];
+        var product_type = Request.Query["product_type"];
+
+
+        string sqlCmd = "UPDATE Taoloid "
+                      + " SET ProductName = @p2,"
+                      + " Price = @p3,"
+                      + " ProductType = @p4"
+                      + " WHERE ProductID = @p1";
+
+        MySqlCommand cmd = new MySqlCommand(sqlCmd, conn);
+        cmd.Parameters.AddWithValue("@p1", product_id);
+        cmd.Parameters.AddWithValue("@p2", product_name);
+        cmd.Parameters.AddWithValue("@p3", price);
+        cmd.Parameters.AddWithValue("@p4", product_type);
+
+
+        cmd.ExecuteNonQuery();
+
+
+
+        result = "ajax update success";
+    }
+    else if (action == "delete")
+    {
+
+        var product_id = Request.Query["product_id"];
+
+        string sqlCmd = "DELETE FROM Taoloid WHERE ProductID = @pid";
+        MySqlCommand cmd = new MySqlCommand(sqlCmd, conn);
+        cmd.Parameters.AddWithValue("@pid", product_id);
+        cmd.ExecuteNonQuery();
+
+        result = "ajax delete success";
+    }
+    else if (action == "select")
+    {
+        var query = Request.Query["query"];
+        string sqlCmd = "SELECT Taoloid.* FROM Taoloid "
+                      + " WHERE ProductID LIKE @p1 "
+                      + "    OR ProductName LIKE @p1"
+                      + "    OR Price LIKE @p1"
+                      + "    OR ProductType LIKE @p1";
+
+        MySqlCommand cmd = new MySqlCommand(sqlCmd, conn);
+        cmd.Parameters.AddWithValue("@p1", "%" + query + "%");
+        MySqlDataReader reader = cmd.ExecuteReader();
+
+        DataTable dt = new DataTable();
+        dt.Load(reader);
+
+        string json_string = JsonConvert.SerializeObject(dt);
+        result = json_string;
+
+    }
+    else if (action == "fetch_single")
+    {
+
+        var query = Request.Query["query"];
+        string sqlCmd = "SELECT * FROM Taoloid "
+                      + " WHERE ProductID = @p1 ";
+
+        MySqlCommand cmd = new MySqlCommand(sqlCmd, conn);
+        cmd.Parameters.AddWithValue("@p1", query);
+        MySqlDataReader reader = cmd.ExecuteReader();
+
+        DataTable dt = new DataTable();
+        dt.Load(reader);
+
+        string json_string = JsonConvert.SerializeObject(dt);
+        result = json_string;
+
+    }
+    else
+    {
+        result = "unknow action";
+    }
+
+}
+@Html.Raw(result)

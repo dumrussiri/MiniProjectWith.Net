@@ -1,0 +1,21 @@
+﻿@page
+@model PrivacyModel
+@{
+if (HttpContext.Session.GetString("username") == null)
+	{
+<script>alert("กรุณา login ก่อนเข้ามาที่หน้านี้นะจ๊ะ");</script>
+<script>window.location.replace("./Login");</script>
+return;
+	}
+}
+@{
+    ViewData["Title"] = "☬✞ ₱ⱤłV₳₵Ɏ ₱ØⱠł₵Ɏ ✞☬";
+}
+<h1>@ViewData["Title"]</h1>
+<p></p>
+
+<p className="title text-just mt-4 mb-4">
+    <h3>★彡 มารู้จักเต่าลอยกันเถอะ 彡★ ???</h3>
+<p>เต่าลอย หรือ เรียกอีกชื่อว่าเครื่องกึ่งอัตโนมัติ ระบบมีการตรวจจับด้วยAIที่สมบูรณ์แบบและทันสมัย</p>
+<p>มีเมนูให้เลือกมากมายไม่ว่าจะเป็น Coffee,Tea,Milk,Cocoa and Caramail,Protein Shake และอื่นๆมากกว่า 10 รายการ</p>
+<p>หัวหน้ากิจการ Jiranat Palasing สนใจเเบอร์ติดต่อ:096-847-3250</p>

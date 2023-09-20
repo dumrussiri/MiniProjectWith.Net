@@ -1,0 +1,95 @@
+﻿@page
+@model TaoLoid.Pages.aboutModel
+@{
+if (HttpContext.Session.GetString("username") == null)
+	{
+<script>alert("กรุณา login ก่อนเข้ามาที่หน้านี้นะจ๊ะ");</script>
+<script>window.location.replace("./Login");</script>
+return;
+	}
+
+}
+
+
+<html>
+    <head>
+    <link rel="stylesheet" href="~/css/about.css" />
+    <style>
+        .box {
+            position: relative;
+            display: inline-block;
+        }
+        .text-center{
+            margin:auto;
+        }
+        .box-content {
+            display: none;
+            position: absolute;
+            background-color: #FFFFCC;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            padding: 12px 16px;
+        }
+
+        .box:hover .box-content {
+            display: block;
+        }
+    </style>
+    
+    <h1 class="text-center"><b>༺✮•°◤ 𝙈𝙖𝙠𝙚 𝙗𝙮 ◥°•✮༻</b></h1>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+
+    </script>
+    </head>
+    <body>
+        <div>
+       <div class="mainn ">
+        <div class="boxx">
+            
+                <img class="image img-rounded" src="https://scontent.fbkk20-1.fna.fbcdn.net/v/t39.30808-6/364174001_6464910673591188_4322351341485906708_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHIk7ByzbVNLc1zIusMdpja3MsLfk-nUXDcywt-T6dRcMoH-TOJaMuZbl8XMIumXQ9_t14ofowlh1jvlwDu70e2&_nc_ohc=quRma_jVDjIAX-hgK-2&_nc_ht=scontent.fbkk20-1.fna&oh=00_AfCOsik5weit3mZFZP2lslLXDAkA1eM5JG4JPSDWHQmKTA&oe=650E61BB" width=" 400px"/>
+                <div class="box">
+                <h2 class="text-center" >Mr.Jiranat Palasing</h2>
+                <p></p>
+                    <p>Student_ID: 6321651826</p>
+                    <p>No:29</p>
+                <div class="box-content">
+                        <p>handle coding!</p>
+                </div>
+             </div>
+           
+        </div>
+       </div>
+
+    <div class="mainn ">
+        <div class="boxx">
+                <img class="image img-rounded" src="https://scontent.fbkk20-1.fna.fbcdn.net/v/t39.30808-6/365264705_1720869611691196_8956020077541716779_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeF7YzlbVS38-SKHXfovXMLcAby2qmeug8sBvLaqZ66DyxACk-Ipl7y-17az8JVfvjHb51d-Ixmoyf7Bf00WBhnk&_nc_ohc=ad79ymNUS6MAX-EPUjw&_nc_ht=scontent.fbkk20-1.fna&oh=00_AfCT-9_ZiFO368EbxlXV0JLpDAX1rVMcxeXITQWsL2Amgw&oe=650F49E2" width="400px" />
+                <div class="box">
+                <h2 class="text-center">Mr.Chayapol Tanapuech</h2>
+                    <p></p>
+                    <p>Student_ID:6321651851</p>
+                    <p>No:31</p>
+                    <div class="box-content">
+                        <p>handle mysql!</p>
+                    </div>
+        </div>
+    </div>
+
+    <div class="mainn ">
+        <div class="boxx">
+                    <img class="image img-rounded" src="https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/369222151_3744055219214297_8109804958336390169_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeEKhTdrzISJOCWt8Xk6YAHDm6Di0uvWG2OboOLS69YbY4iiBYle1NtTbXFT9TUJXPt_ACo_5-b1KBhk7pyddLgM&_nc_ohc=4U2tQFZRnoEAX9Ig5Xj&_nc_ht=scontent.fbkk10-1.fna&oh=00_AfBEOdPEz9Xl4yIjppDEFDHVmP6mA_hMbWH898dVOH15rQ&oe=650E9B13" width=" 400px"/>
+                    <div class="box">
+                <h2 class="text-center">Mr.Damrussiri Wachirakkamatee</h2>
+                        <p></p>
+                        <p>Student_ID: 6321651923</p>
+                        <p>No:35</p>
+                 <div class="box-content">
+                        <p>handle css!</p>
+                </div>
+        </div>
+    </div>
+    </div>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+﻿@page
+@model TaoLoid.Pages.logoutModel
+
+@{
+}
+
+@{
+    if (HttpContext.Session.GetString("username") == null)
+    {
+        <script>alert("กรุณา login ก่อนเข้ามาที่หน้านี้นะจ๊ะ");</script>
+        <script>window.location.replace("./Login");</script>
+
+    }
+    var displayname = HttpContext.Session.GetString("displayname");
+}
+
+@{
+    HttpContext.Session.Remove("username");
+    HttpContext.Session.Remove("displayname");
+}
+Logout ให้คุณ @displayname เรียบร้อยแล้ว
